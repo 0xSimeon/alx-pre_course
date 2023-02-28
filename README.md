@@ -1,6 +1,5 @@
 My first readme
-'''@dev
-author: Simeon Udoh
+/*
+@author: Simeon Udoh (0xSimeon)
 
-
-'''
+8/
